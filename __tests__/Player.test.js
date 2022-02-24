@@ -61,7 +61,6 @@ test("subtract from player's health", () => {
 
   player.reduceHealth(99999);
   expect(player.health).toBe(0);
-  console.log(player.strength);
 });
 
 test("gets player's attack value", () => {
