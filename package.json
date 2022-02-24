@@ -18,5 +18,8 @@
   "homepage": "https://github.com/aldrinburgos18/jest-another-RPG-v2#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
